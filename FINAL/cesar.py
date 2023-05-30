@@ -191,7 +191,6 @@ def decrypter(chaine):
 
 # chaine = "uizqmIumtqm aqvabittm idmk ai umzm icxzma lm ai lmuq awmcz ti zmqvm Uizqm I kmbbm mxwycm tm owcdmzvmumvb jzmaqtqmv zmncam mv mnnmb lm zmkwvviqbzm tmvnivb kwuum umujzm i xizb mvbqmzm lm ti niuqttm quxmzqitm Vq mttm vq ai umzm tquxmzibzqkm lwciqzqmzm vm zmkwqdmvb lwvk ickcvm xmvaqwv lm ti xizb lm tMbib jzmaqtqmv Kmab amctmumvb idmk ti nqv lm ti zmomvkm jzmaqtqmvvm mb tmizzqdmm ic xwcdwqz lc lmuq"
 
-print(chiffrer("a", 3))
 # print(a)
 # b = dechiffrer_cesar(chaine, 8)
 # print(b)
